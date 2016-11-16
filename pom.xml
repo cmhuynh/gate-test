@@ -27,8 +27,8 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com:cmhuynh/gate-test.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:cmhuynh/gate-test.git</developerConnection>
+        <connection>scm:git:git@github.com:cmhuynh/gate-test.git</connection>
+        <developerConnection>scm:git:git@github.com:cmhuynh/gate-test.git</developerConnection>
         <url>https://github.com/cmhuynh/gate-test</url>
     </scm>
 
