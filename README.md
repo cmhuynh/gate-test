@@ -18,6 +18,7 @@ then this library is to serve you right.
 ```
 
 * Deployment instructions
+
 This library depends on gate-core version 8.0
 ```xml
 <dependency>
@@ -32,12 +33,15 @@ This library is compiled on Java 8
 ### Contribution guidelines ###
 
 * Writing tests
+
 Please help this unit test library to be full unit test coverage please.
 
 * Code review
+
 All PRs are welcomed.
  
 * Other guidelines
+
 No custom code style is required.
 
 ### Who do I talk to? ###
@@ -45,6 +49,7 @@ No custom code style is required.
 * Repo owner or admin
 
 ## Examples 
+
 Initiate a new Annotation instance:
 ```java
 String TYPE_VALUE = "some type";
