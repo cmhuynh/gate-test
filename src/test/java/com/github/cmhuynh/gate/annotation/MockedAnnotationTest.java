@@ -1,4 +1,4 @@
-package com.chuynh.gate.annotation;
+package com.github.cmhuynh.gate.annotation;
 
 import gate.Annotation;
 import org.junit.Test;
