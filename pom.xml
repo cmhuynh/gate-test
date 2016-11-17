@@ -34,7 +34,6 @@
         <connection>scm:git:git@github.com:cmhuynh/gate-test.git</connection>
         <developerConnection>scm:git:git@github.com:cmhuynh/gate-test.git</developerConnection>
         <url>https://github.com/cmhuynh/gate-test/tree/master</url>
-      <tag>gate-test-1.0.0</tag>
   </scm>
 
     <distributionManagement>
