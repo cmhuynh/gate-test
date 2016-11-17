@@ -1,4 +1,4 @@
-# Embedded Unit Test made Easy #
+# GATE Embedded Unit Test made Easy #
 
 Congratulate to your Natural Language Processing solution using [GATE] (https://gate.ac.uk/).
 If you employ [GATE embedded] (http://search.maven.org/#search%7Cga%7C1%7Cgate), 
