@@ -4,7 +4,7 @@
 
     <groupId>com.github.cmhuynh</groupId>
     <artifactId>gate-test</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>gate-test</name>
@@ -31,8 +31,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/cmhuynh/gate-test.git</connection>
-        <developerConnection>scm:git:ssh://github.com:cmhuynh/gate-test.git</developerConnection>
+        <connection>scm:git:git@github.com:cmhuynh/gate-test.git</connection>
+        <developerConnection>scm:git:git@github.com:cmhuynh/gate-test.git</developerConnection>
         <url>https://github.com/cmhuynh/gate-test/tree/master</url>
       <tag>gate-test-1.0.0</tag>
   </scm>
