@@ -25,6 +25,7 @@ This library depends on gate-core version 8.0
     <groupId>uk.ac.gate</groupId>
     <artifactId>gate-core</artifactId>
     <version>8.0</version>
+    <scope>pr</scope>    
 </dependency>
 ```
 
