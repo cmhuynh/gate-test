@@ -57,7 +57,8 @@ String TYPE_VALUE = "some type";
 String INST_VALUE = "some instance value";
 String fKey = "some feature";
 Set<Integer> fValue = new HashSet<>(Arrays.asList(1, 2, 3));
-Annotation annotation = MockedAnnotation.builder().withInstance(INST_VALUE)
+Annotation annotation = MockedAnnotation.builder()
+        .withInstance(INST_VALUE)
         .withType(TYPE_VALUE)
         .withOffset(10, 20)
         .withFeature(fKey, fValue)
